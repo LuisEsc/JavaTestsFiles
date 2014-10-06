@@ -6,8 +6,7 @@
 package testsfiles;
 
 /**
- *
- * @author Esmonet
+ * @author Luis
  */
 public class TestsFiles {
 
